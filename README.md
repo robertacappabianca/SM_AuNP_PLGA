@@ -2,11 +2,11 @@
 
 <p align="center">
     <a target="_blank" href="https://python.org"><img
-        src="https://img.shields.io/badge/Python-3.6%20%7C%203.7%20%7C%203.8-blue?logo=python&amp;logoColor=white"
+        src="https://img.shields.io/badge/Python-3.7-blue?logo=python&amp;logoColor=white"
         alt="Made with Python" />
     </a>
     <a target="_blank" href="https://jupyter.org"><img
-        src="https://img.shields.io/badge/Jupyter%20Lab-2.9%20|%203.0%20-orange?logo=jupyter&logoColor=white"
+        src="https://img.shields.io/badge/Jupyter%20Lab-3.x-orange?logo=jupyter&logoColor=white"
         alt="Jupyter friendly" />
     </a>
     <a target="_blank" href="/LICENSE"><img
