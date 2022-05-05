@@ -1,0 +1,19 @@
+
+filetype pdb
+tolerance 2.0
+seed 42  
+
+structure AuNP_ASE_wulff_surf_d39.pdb
+number 1
+center
+fixed 65.0 65.0 65.0 0.0 0.0 0.0
+end structure 
+
+structure 2PLGA_chain_conect.pdb
+number 60
+inside box 0.0 0.0 0.0 130.0 130.0 130.0 
+end structure 
+
+output gold_60plga.pdb     
+
+        

@@ -1,0 +1,13 @@
+
+filetype pdb
+tolerance 2.0  
+
+structure AuNP_ASE_wulff_surf_d39.pdb
+number 1
+center
+fixed 35.0 35.0 35.0 0.785398 -0.615479 0.261799
+end structure 
+
+output AuNP_54.7.pdb         
+
+        

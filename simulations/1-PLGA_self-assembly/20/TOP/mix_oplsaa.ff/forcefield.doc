@@ -1,0 +1,4 @@
+OPLS-AA/L all-atom force field (2001 aminoacid dihedrals)
+
+MODIFIED TO ADD GOLD ATOMS:
+For the gold atoms we only consider the non bonded interaction, so we have to include the LJ parameters for the gold atoms in the ffnonbonded.itp file and the gold atoms type (AUb, AU1, AU2, AU3) in the atomtypes.atp file.

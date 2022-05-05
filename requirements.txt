@@ -1,0 +1,6 @@
+jupyterlab
+numpy
+ase
+mdtraj
+hdbscan
+pandas
