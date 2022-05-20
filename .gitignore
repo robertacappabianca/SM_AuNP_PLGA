@@ -1,35 +1,12 @@
-# ignore notebooks
-notebooks/5-size_independence.ipynb
-notebooks/6-AuNP_plusH.ipynb
-
 # ignore output files 
 
 gold_10plga.pdb
 gold_20plga.pdb
 gold_30plga.pdb
 
-gold_15mMplga_16nm.pdb
-gold_15mMplga_20nm.pdb
-gold_15mMplga_26nm.pdb
-gold_22mMplga_16nm.pdb
-gold_22mMplga_20nm.pdb
-gold_22mMplga_26nm.pdb
-
-AuNP_polar.pdb
-gold_polar_20plga_13nm.pdb
-
 packmol_10.in
 packmol_20.in
 packmol_30.in
-
-packmol_37.in
-packmol_56.in
-packmol_73.in
-packmol_109.in
-packmol_160.in
-packmol_240.in
-
-packmol_polar_20.in
 
 simulations/1-PLGA_self-assembly/60/EM/**/*
 !simulations/1-PLGA_self-assembly/60/EM/minim.mdp
@@ -61,6 +38,6 @@ simulations/0-Packmol/inputs_US/**/*
 simulations/2-US_free_energy/theta_54.7/EM/**/*
 !simulations/2-US_free_energy/theta_54.7/EM/minim.mdp
 
-simulations/3-Rebutle/**/*
+# ignore code files
 
 .vscode

@@ -62,7 +62,7 @@ Furthermore, are shared the input files of the Packmol code and of the GROMACS s
 #### Clone repository
 
 ```console
-git clone https://github.com/Rcappabianca/SM_AuNP_PLGA.git
+git clone https://github.com/robertacappabianca/SM_AuNP_PLGA.git
 ```
 
 #### Set-up virtual environment (optional)
@@ -142,6 +142,9 @@ in the adsorption of PLGA on the specific plane of the NP.
 To explore the Free Energy Landscape (FEL) using the improved Umbrella Sampling (US) method. Specifically, this notebook jupyter describes how to extract the Potential of Mean Force (PMF) of a single PLGA polymer chain adsorbing on the AuNP by varying their reciprocal angular positions. (see in the [article](ARTICOLO) 'Results and discussion': figure 4)
 
 > **NOTE** `4.1-rotation_NP.ipynb` needs to calculate the axis and angles of rotation to rotate the nanoparticle. 
+
+**Note:** In the main article, we replicated the simulations in order to determinate the mean values and statistical variance of the results. 
+
 
 ## 🚩 License
 The code is available under the [GNU General Public License v3.0](LICENSE).
