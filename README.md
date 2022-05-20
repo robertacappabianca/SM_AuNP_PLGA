@@ -143,6 +143,8 @@ To explore the Free Energy Landscape (FEL) using the improved Umbrella Sampling 
 
 > **NOTE** `4.1-rotation_NP.ipynb` needs to calculate the axis and angles of rotation to rotate the nanoparticle. 
 
+---
+
 **Note:** In the main article, we replicated the simulations in order to determinate the mean values and statistical variance of the results. 
 
 
