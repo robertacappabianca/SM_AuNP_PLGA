@@ -145,7 +145,7 @@ To explore the Free Energy Landscape (FEL) using the improved Umbrella Sampling 
 
 ---
 
-### **Note:** In the main article, we replicated the simulations in order to determinate the mean values and statistical variance of the results. 
+#### **Note:** In the main article, we replicated the simulations in order to determinate the mean values and statistical variance of the results. 
 
 
 ## 🚩 License
