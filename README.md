@@ -51,13 +51,13 @@ src="img/logo.png">
 <img src="img/gtoc.png" width="50%" align="center"></a>
 </p> -->
 
-In this repository are stored the Jupyter Notebooks used in the article [ARTICOLO](ARTICOLO) to:
+In this repository are stored the Jupyter Notebooks used in the [article](https://pubs.acs.org/doi/10.1021/acsomega.2c05218) to:
 
 1. Define the geometry and topology of a bare gold nanoparticle;
 
 2. To study the self-assembly and adsorption phenomena of PLGA polymers onto a AuNP surface through post-processing analysis.
 
-Furthermore, are shared the input files of the Packmol code and of the GROMACS software needed to repeat the work described in the article [ARTICOLO](ARTICOLO).
+Furthermore, are shared the input files of the Packmol code and of the GROMACS software needed to repeat the work described in the [article](https://pubs.acs.org/doi/10.1021/acsomega.2c05218).
 
 ## Table of contents
 
