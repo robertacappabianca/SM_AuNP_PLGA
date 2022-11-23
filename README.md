@@ -20,8 +20,8 @@ Supporting material
         alt="OS - Linux" />
     </a>
     </a>
-        <a target="_blank" href="https://results.pre-commit.ci/badge/github/paolodeangelis/SM_AuNP_PLGA/main.svg"><img
-        src="https://results.pre-commit.ci/badge/github/paolodeangelis/SM_AuNP_PLGA/main.svg"
+        <a target="_blank" href="https://results.pre-commit.ci/badge/github/robertacappabianca/SM_AuNP_PLGA/main.svg"><img
+        src="https://results.pre-commit.ci/badge/github/robertacappabianca/SM_AuNP_PLGA/main.svg"
         alt="pre-commit.ci status" />
     </a>
     <a target="_blank" href="https://github.com/psf/black"><img
@@ -186,6 +186,13 @@ doi = {10.1021/acsomega.2c05218},
 publisher={ACS Publications}
 }
 ```
+
+or
+
+> Assembling Biocompatible Polymers on Gold Nanoparticles: Toward a Rational Design of Particle Shape by Molecular Dynamics
+Roberta Cappabianca, Paolo De Angelis, Annalisa Cardellini, Eliodoro Chiavazzo, and Pietro Asinari
+*ACS Omega* 2022 7 (46), 42292-42303
+DOI: [10.1021/acsomega.2c05218](https://doi.org/10.1021/acsomega.2c05218)
 
 
 ## 🚩 License
