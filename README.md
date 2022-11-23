@@ -1,4 +1,6 @@
-# Supporting material for the article:
+<h1 align="center">
+Supporting material
+</h1>
 
 <p align="center">
     <a target="_blank" href="https://python.org"><img
@@ -17,18 +19,37 @@
         src="https://img.shields.io/badge/OS-Linux-lightgray?logo=linux&amp;logoColor=white"
         alt="OS - Linux" />
     </a>
-    <a target="_blank" href="http://www.doi.org/"><img
+    </a>
+        <a target="_blank" href="https://results.pre-commit.ci/badge/github/paolodeangelis/SM_AuNP_PLGA/main.svg"><img
+        src="https://results.pre-commit.ci/badge/github/paolodeangelis/SM_AuNP_PLGA/main.svg"
+        alt="pre-commit.ci status" />
+    </a>
+    <a target="_blank" href="https://github.com/psf/black"><img
+        src="https://img.shields.io/badge/code%20style-black-000000.svg"
+        alt="Code style - black" />
+    </a>
+    <a target="_blank" href="https://doi.org/10.1021/acsomega.2c05218"><img
 		alt="DOI"
-		src="http://img.shields.io/badge/DOI-to%20Define-9cf.svg">
+		src="http://img.shields.io/badge/DOI-10.1021/acsomega.2c05218-9cf.svg">
     </a>
 </p>
 
-## Assembling Biocompatible Polymers on Gold Nanoparticles: Towards a Rational Design of Particle Shape by Molecular Dynamics
+<h2 align="center">
+Assembling Biocompatible Polymers on Gold Nanoparticles: Towards a Rational Design of Particle Shape by Molecular Dynamics
+</h2>
+<a target="_blank" href="https://pubs.acs.org/doi/10.1021/acsomega.2c05218">
+<img width="100%"
+alt="logo"
+src="img/logo.png">
+</a>
+<br>
+
+<!-- ## Assembling Biocompatible Polymers on Gold Nanoparticles: Towards a Rational Design of Particle Shape by Molecular Dynamics
 
 <p align="center">
 <a href="TO BE DEFINE">
 <img src="img/gtoc.png" width="50%" align="center"></a>
-</p>
+</p> -->
 
 In this repository are stored the Jupyter Notebooks used in the article [ARTICOLO](ARTICOLO) to:
 
@@ -50,6 +71,7 @@ Furthermore, are shared the input files of the Packmol code and of the GROMACS s
   * [`2-unsupervised_learning.ipynb`](#using-unsupervised_learning)
   * [`3-SASA_analysis.ipynb`](#using-SASA_analysis)
   * [`4-setup_US.ipynb`](#using-setup_US)
+- [🤝 Citation](#-citation)
 - [🚩 License](#-license)
 - [🎖️️️ CREDITS](#-creditscreditsmd)
 
@@ -146,6 +168,24 @@ To explore the Free Energy Landscape (FEL) using the improved Umbrella Sampling 
 ---
 
 #### **Note:** In the main article, we replicated the simulations in order to determinate the mean values and statistical variance of the results.
+
+## 🤝 Citation
+
+If you found this set of Jupyter notebooks useful in your work, please cite the following:
+
+```
+@article{cappabianca2022assembling,
+title = {Assembling Biocompatible Polymers on Gold Nanoparticles: Toward a Rational Design of Particle Shape by Molecular Dynamics},
+author = {Cappabianca, Roberta and De Angelis, Paolo and Cardellini, Annalisa and Chiavazzo, Eliodoro and Asinari, Pietro},
+journal = {ACS Omega},
+volume = {7},
+number = {46},
+pages = {42292-42303},
+year = {2022},
+doi = {10.1021/acsomega.2c05218},
+publisher={ACS Publications}
+}
+```
 
 
 ## 🚩 License
