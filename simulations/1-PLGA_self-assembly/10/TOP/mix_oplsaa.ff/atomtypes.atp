@@ -12,13 +12,13 @@
 ; DMF       131,2,3,132
 ; Acetamide 1,2,7,12,13
 ;
-; Types 1-65 are united-atom parameters for proteins, 
+; Types 1-65 are united-atom parameters for proteins,
 ; see JACS 110, 1657 (1988).
 ;
  opls_001   12.01100  ;
- opls_002   15.99940  ; 
- opls_003   14.00670  ;  
- opls_004    1.00800  ; 
+ opls_002   15.99940  ;
+ opls_003   14.00670  ;
+ opls_004    1.00800  ;
  opls_005   14.02700  ;
  opls_006   13.01900  ;
  opls_007   15.03500  ;
@@ -26,19 +26,19 @@
  opls_009   14.02700  ;
  opls_010   15.03500  ;
  opls_011   12.01100  ;
- opls_012   14.00670  ; 
- opls_013    1.00800  ; 
+ opls_012   14.00670  ;
+ opls_013    1.00800  ;
  opls_014   13.01900  ;
  opls_015   14.02700  ;
  opls_016   14.02700  ;
  opls_017   12.01100  ;
  opls_018   15.99940  ;
  opls_019   14.02700  ;
- opls_020   14.00670  ; 
- opls_021    1.00800  ; 
+ opls_020   14.00670  ;
+ opls_021    1.00800  ;
  opls_022   14.02700  ;
  opls_023   15.99940  ;
- opls_024    1.00800  ; 
+ opls_024    1.00800  ;
  opls_025   13.01900  ;
  opls_026   12.01100  ;
  opls_027   14.02700  ;
@@ -47,33 +47,33 @@
  opls_030   13.01900  ;
  opls_031   14.02700  ;
  opls_032   32.06000  ;
- opls_033    1.00800  ; 
+ opls_033    1.00800  ;
  opls_034   14.02700  ;
  opls_035   32.06000  ;
  opls_036   15.03500  ;
  opls_037   14.02700  ;
  opls_038   32.06000  ;
  opls_039   15.03500  ;
- opls_040   14.00670  ; 
- opls_041    1.00800  ; 
- opls_042   14.00670  ; 
+ opls_040   14.00670  ;
+ opls_041    1.00800  ;
+ opls_042   14.00670  ;
  opls_043   12.01100  ;
  opls_044   12.01100  ;
  opls_045   12.01100  ;
- opls_046   14.00670  ; 
- opls_047    1.00800  ; 
+ opls_046   14.00670  ;
+ opls_047    1.00800  ;
  opls_048   12.01100  ;
  opls_049   12.01100  ;
  opls_050   12.01100  ;
- opls_051   14.00670  ; 
- opls_052    1.00800  ; 
- opls_053   12.01100  ;  
- opls_054   14.00670  ; 
- opls_055    1.00800  ; 
+ opls_051   14.00670  ;
+ opls_052    1.00800  ;
+ opls_053   12.01100  ;
+ opls_054   14.00670  ;
+ opls_055    1.00800  ;
  opls_056   14.02700  ;
  opls_057   14.02700  ;
  opls_058   12.01100  ; C  in COOR ester JPC3315(91)
- opls_059   15.99940  ; O= in COOR ester 
+ opls_059   15.99940  ; O= in COOR ester
  opls_060   13.01900  ;
  opls_061   14.02700  ;
  opls_062   15.99940  ; O- in COOR ester
@@ -99,7 +99,7 @@
  opls_082   32.06000  ; S   IN H2S        JPC,90,6379 (1986)
  opls_083   32.06000  ; S   IN RSH        JPC,90,6379 (1986)
  opls_084   32.06000  ; S   IN RSR        JPC,90,6379 (1986)
- opls_085   32.06000  ; S   IN RSSR       JPC,90,6379 (1986)  
+ opls_085   32.06000  ; S   IN RSSR       JPC,90,6379 (1986)
  opls_086    1.00800  ; H   IN H2S        JPC,90,6379 (1986)
  opls_087    1.00800  ; H(S) IN RSH       JPC,90,6379 (1986)
  opls_088   15.03500  ; CH3 IN CH3SH      JPC,90,6379 (1986)
@@ -111,18 +111,18 @@
  opls_094   14.00670  ; N IN CH3CN                   Mol.Phys.,63,547 (1988)
  opls_095   12.01100  ; C IN CH3CN                   Mol.Phys.,63,547 (1988)
  opls_096   15.03500  ; CH3 IN CH3CN                 Mol.Phys.,63,547 (1988)
- opls_097   39.94800  ; Argon from Verlet & Weis     Mol.Phys.,24,1013 (1972) For Ne and He, 
+ opls_097   39.94800  ; Argon from Verlet & Weis     Mol.Phys.,24,1013 (1972) For Ne and He,
  opls_098   83.79800  ; Krypton from Verlet & Weis   Mol.Phys.,24,1013 (1972) see types 129,130.
  opls_099  131.29300  ; Xenon from Verlet & Weis     Mol.Phys.,24,1013 (1972)
  opls_101   14.00670  ; N (NH4+)                     JPC,90,2174 (1986)
  opls_102   14.00670  ; N (RNH3+)                    JPC,90,2174 (1986)
- opls_103   14.00670  ; N (R4N+)                     JPC,90,2174 (1986)   
+ opls_103   14.00670  ; N (R4N+)                     JPC,90,2174 (1986)
  opls_104    1.00800  ; H (NH4+)                     JPC,90,2174 (1986)
  opls_105    1.00800  ; H (RNH3+)                    JPC,90,2174 (1986)
  opls_106   15.03500  ; United-atom CH3 (CH3NH3+)    JPC 90,2174 (1986)
  opls_107   15.03500  ; United-atom CH3 ((CH3)4N+)   JPC 90,2174 (1986)
- opls_108   15.99940  ; United-atom Ether O          JCC,11,958 (1990) 
- opls_109   15.03500  ; United-atom Ether CH3 (-O)   JCC,11,958 (1990) 
+ opls_108   15.99940  ; United-atom Ether O          JCC,11,958 (1990)
+ opls_109   15.03500  ; United-atom Ether CH3 (-O)   JCC,11,958 (1990)
  opls_110   14.02700  ; United-atom Ether CH2 (-O)   JCC,11,958 (1990)
  opls_111   15.99940  ; O TIP3P Water
  opls_112    1.00800  ; H TIP3P Water
@@ -145,16 +145,16 @@
  opls_130    4.00260  ; Helium                        Hirschfelder (Wiley,1954)
  opls_131   12.01100  ; C in C=O for UA formamide, DMF.
  opls_132   15.03500  ; CH3 in HCON(CH3)2 DMF
- opls_135   12.01100  ; alkane CH3 
- opls_136   12.01100  ; alkane CH2 
- opls_137   12.01100  ; alkane CH 
- opls_138   12.01100  ; alkane CH4 
- opls_139   12.01100  ; alkane C   
+ opls_135   12.01100  ; alkane CH3
+ opls_136   12.01100  ; alkane CH2
+ opls_137   12.01100  ; alkane CH
+ opls_138   12.01100  ; alkane CH4
+ opls_139   12.01100  ; alkane C
  opls_140    1.00800  ; alkane H.
- opls_141   12.01100  ; alkene C (R2-C=) 
- opls_142   12.01100  ; alkene C (RH-C=) 
- opls_143   12.01100  ; alkene C (H2-C=) 
- opls_144    1.00800  ; alkene H (H-C=)  
+ opls_141   12.01100  ; alkene C (R2-C=)
+ opls_142   12.01100  ; alkene C (RH-C=)
+ opls_143   12.01100  ; alkene C (H2-C=)
+ opls_144    1.00800  ; alkene H (H-C=)
  opls_145   12.01100  ; Benzene C - 12 site JACS,112,4768-90. Use #145B for biphenyl
  opls_145B  12.01100  ; Biphenyl C1
  opls_146    1.00800  ; Benzene H - 12 site.
@@ -179,8 +179,8 @@
  opls_165    1.00800  ; H   Trifluoroethanol
  opls_166   12.01100  ; C(OH) phenol  Use with all
  opls_167   15.99940  ; O     phenol  atom C, H 145 & 146
- opls_168    1.00800  ; H     phenol  
- opls_169   15.99940  ; O:    diols 
+ opls_168    1.00800  ; H     phenol
+ opls_169   15.99940  ; O:    diols
  opls_170    1.00800  ; H(O): diols
  opls_171   15.99940  ; O:    triols
  opls_172    1.00800  ; H(O): triols
@@ -196,7 +196,7 @@
  opls_183   12.01100  ; C(HOR):  i-Pr   ether, allose
  opls_184   12.01100  ; C(OR):   t-Bu   ether
  opls_185    1.00800  ; H(COR): alpha H ether
- opls_186   15.99940  ; O: acetal ether 
+ opls_186   15.99940  ; O: acetal ether
  opls_187   15.99940  ; O(H): hemiacetal
  opls_188    1.00800  ; H(O): hemiacetal
  opls_189   12.01100  ; C(H2O2): acetal OCH2O
@@ -249,7 +249,7 @@
  opls_233   12.01100  ; C: C=O in acetophenone (CMe)
  opls_234   12.01100  ; C: C=O in benzamide
  opls_235   12.01100  ; C=O in amide, dmf, peptide bond
- opls_236   15.99940  ; O: C=O in amide.   Acyl R on C in amide is neutral - 
+ opls_236   15.99940  ; O: C=O in amide.   Acyl R on C in amide is neutral -
  opls_237   14.00670  ; N: primary amide.  use alkane parameters.
  opls_238   14.00670  ; N: secondary amide, peptide bond (see #279 for formyl H)
  opls_239   14.00670  ; N: tertiary amide
@@ -269,8 +269,8 @@
  opls_253   15.99940  ; O   in imide
  opls_254    1.00800  ; H(N) in imide
  opls_255    1.00800  ; H(C) in formimide
- opls_256   12.01100  ; C in CH3  imide        
- opls_257   12.01100  ; C in RCH2 imide     
+ opls_256   12.01100  ; C in CH3  imide
+ opls_257   12.01100  ; C in RCH2 imide
  opls_258   12.01100  ; C in R2CH imide
  opls_259   12.01100  ; C in R3C  imide
  opls_260   12.01100  ; C(CN)  benzonitrile
@@ -280,7 +280,7 @@
  opls_264   35.45300  ; Cl     chlorobenzene
  opls_265   14.00670  ; N: N-phenylacetamide
  opls_266   12.01100  ; ipso C in N-phenylacetamide
- opls_267   12.01100  ; Co in CCOOH carboxylic acid 
+ opls_267   12.01100  ; Co in CCOOH carboxylic acid
  opls_268   15.99940  ; Oh in CCOOH R in RCOOH is
  opls_269   15.99940  ; Oc in CCOOH neutral; use #135-#140
  opls_270    1.00800  ; H  in CCOOH
@@ -291,25 +291,25 @@
  opls_275   12.01100  ; C: CH,  carboxylate ion
  opls_276   12.01100  ; C: C,   carboxylate ion
  opls_277   12.01100  ; AA C: aldehyde - for C-alpha use #135-#139
- opls_278   15.99940  ; AA O: aldehyde  
+ opls_278   15.99940  ; AA O: aldehyde
  opls_279    1.00800  ; AA H-alpha in aldehyde & formamide
  opls_280   12.01100  ; AA C: ketone - for C-alpha use #135-#139
- opls_281   15.99940  ; AA O: ketone 
+ opls_281   15.99940  ; AA O: ketone
  opls_282    1.00800  ; AA H on C-alpha in ketone & aldehyde
  opls_283   12.01100  ; CA on C-terminal ALA,CYS,SER,THR,HIS,ASP,ASN
  opls_284   12.01100  ; CA on C-terminal GLY
  opls_285   12.01100  ; CA on C-terminal PRO
  opls_286   14.00670  ; N (NH4+) JPC,90,2174 (1986)
  opls_287   14.00670  ; N (RNH3+) JPC,90,2174 (1986)
- opls_288   14.00670  ; N (R4N+)  JPC,90,2174 (1986)  
- opls_289    1.00800  ; H (NH4+)  JPC,90,2174 (1986)  
+ opls_288   14.00670  ; N (R4N+)  JPC,90,2174 (1986)
+ opls_289    1.00800  ; H (NH4+)  JPC,90,2174 (1986)
  opls_290    1.00800  ; H (RNH3+) JPC,90,2174 (1986)
- opls_291   12.01100  ; C in  CH3NH3+      
+ opls_291   12.01100  ; C in  CH3NH3+
  opls_292   12.01100  ; C in  RCH2NH3+
  opls_292B  12.01100  ; CA in GLY-NH3+ N-term.
- opls_293   12.01100  ; C in  R2CHNH3+     
+ opls_293   12.01100  ; C in  R2CHNH3+
  opls_293B  12.01100  ; CA in NH3+ N-term, All AA except GLY & PRO
- opls_294   12.01100  ; C in  R3CNH3+      
+ opls_294   12.01100  ; C in  R3CNH3+
  opls_295   12.01100  ; AA C-alpha on N-term PRO
  opls_296   12.01100  ; AA:C-delta in N-term PRO NH2+
  opls_297   12.01100  ; CT in  CH3NH2+R
@@ -320,16 +320,16 @@
  opls_302   12.01100  ; C: guanidinium C+
  opls_303   14.00670  ; N: guanidinium NHR
  opls_304    1.00800  ; H: guanidinium NHR
- opls_305   12.01100  ; C: CH3, methylguanidinium  
+ opls_305   12.01100  ; C: CH3, methylguanidinium
  opls_306   12.01100  ; C: CH3, ethylguanidinium
  opls_307   12.01100  ; C: CH2(D), ARG, ethylguanidinium
  opls_308   12.01100  ; C: CH2(G), ARG
  opls_309   14.00670  ; N (R2NH2+), N-terminal PRO NH2+
  opls_310    1.00800  ; H (R2NH2+)
  opls_311   14.00670  ; DAP N1   (Diaminopyridine)
- opls_312   12.01100  ; DAP C2   
+ opls_312   12.01100  ; DAP C2
  opls_313   14.00670  ; DAP N-amine
- opls_314    1.00800  ; DAP H-amine 
+ opls_314    1.00800  ; DAP H-amine
  opls_315   12.01100  ; DAP C3
  opls_316    1.00800  ; DAP H3
  opls_317   12.01100  ; DAP C4
@@ -369,11 +369,11 @@
  opls_349   12.01100  ; Adenine C4
  opls_350   12.01100  ; Adenine C5
  opls_351   12.01100  ; Adenine C6
- opls_352   14.00670  ; Adenine & Guanine N7 
- opls_353   12.01100  ; Adenine & Guanine C8 
+ opls_352   14.00670  ; Adenine & Guanine N7
+ opls_353   12.01100  ; Adenine & Guanine C8
  opls_354   14.00670  ; Adenine & Guanine N9 - use #354B for nucleoside
  opls_354B  14.00670  ; Adenine & Guanine N9 - nucleoside only
- opls_355    1.00800  ; Adenine & Guanine H-C2        
+ opls_355    1.00800  ; Adenine & Guanine H-C2
  opls_356   14.00670  ; Adenine & Guanine N-C6
  opls_357    1.00800  ; Adenine & Guanine H-NC6/N1
  opls_358    1.00800  ; Adenine & Guanine H-NC6/C5
@@ -397,7 +397,7 @@
  opls_376    1.00800  ; 1-Me Cytosine H-CN1
  opls_377   14.00670  ; CytH+ N1 Use #377B for nucleoside.
  opls_377B  14.00670  ; CytH+ N1 - nucleoside only
- opls_378   12.01100  ; CytH+ C2      
+ opls_378   12.01100  ; CytH+ C2
  opls_379   14.00670  ; CytH+ N3 Protonated cytosine.
  opls_380   12.01100  ; CytH+ C4
  opls_381   12.01100  ; CytH+ C5
@@ -440,7 +440,7 @@
  opls_421   12.01100  ; C1 in  CH2CN-  RCN-
  opls_422    1.00800  ; H  in  CH2CN-
  opls_423   12.01100  ; C2 in  CH2CN-   JACS 111,4190 (89)
- opls_424   14.00670  ; N  in  CH2CN-   
+ opls_424   14.00670  ; N  in  CH2CN-
  opls_425   12.01100  ; C  in  CH3NH-
  opls_426    1.00800  ; HC in  CH3NH-  RNH-
  opls_427   14.00670  ; N  in  CH3NH-
@@ -472,15 +472,15 @@
  opls_455   12.01100  ; C(P) MePO3Me-, MePO3HMe
  opls_456    1.00800  ; H(CP) MePO3Me-, MePO3HMe
  opls_457   12.01100  ; Cipso  benzyl methylphosphonate
- opls_458   12.01100  ; C(O) benzyl methylphosphonate 
+ opls_458   12.01100  ; C(O) benzyl methylphosphonate
  opls_459    1.00800  ; H(CO) benzyl methylphosphonate
  opls_460   12.01100  ; Cipso  methyl benzylphosphonate
  opls_461   12.01100  ; C(P)  methyl benzylphosphonate
  opls_462    1.00800  ; H(CP) methyl benzylphosphonate
  opls_463   12.01100  ; Cipso C6H5OPO3(2-)  use with #445-#447
  opls_465   12.01100  ; AA C:   esters - for R on C=O, use #280-#282
- opls_466   15.99940  ; AA =O:  esters   
- opls_467   15.99940  ; AA -OR: ester 
+ opls_466   15.99940  ; AA =O:  esters
+ opls_467   15.99940  ; AA -OR: ester
  opls_468   12.01100  ; methoxy C in esters - see also #490-#492
  opls_469    1.00800  ; methoxy Hs in esters
  opls_470   12.01100  ; Co in benzoic acid
@@ -505,7 +505,7 @@
  opls_490   12.01100  ; C(H2OS) ethyl ester
  opls_491   12.01100  ; C(HOS) i-pr ester
  opls_492   12.01100  ; C(OS) t-bu ester
- opls_493   32.06000  ; S in sulfone    
+ opls_493   32.06000  ; S in sulfone
  opls_494   15.99940  ; O in sulfone
  opls_496   32.06000  ; sulfoxide - all atom
  opls_497   15.99940  ; sulfoxide - all atom
@@ -528,8 +528,8 @@
  opls_514   12.01100  ; CD1 in TRP
  opls_515   12.01100  ; all-atom C: CH, isopropyl benzene
  opls_516   12.01100  ; all-atom C: C,  t-butyl benzene
- opls_517   12.01100  ; vinyl ether HCOR         
- opls_518   12.01100  ; vinyl ether RCOR         
+ opls_517   12.01100  ; vinyl ether HCOR
+ opls_518   12.01100  ; vinyl ether RCOR
  opls_520   14.00670  ; N   in pyridine 6-31G*
  opls_521   12.01100  ; C1  in pyridine CHELPG
  opls_522   12.01100  ; C2  in pyridine charges
@@ -630,9 +630,9 @@
  opls_617    1.00800  ; H6  in quinoline
  opls_618    1.00800  ; H7  in quinoline
  opls_619    1.00800  ; H8  in quinoline
- opls_620   14.00670  ; N1  in purine 
- opls_621   12.01100  ; C2  in purine   
- opls_622   14.00670  ; N3  in purine   
+ opls_620   14.00670  ; N1  in purine
+ opls_621   12.01100  ; C2  in purine
+ opls_622   14.00670  ; N3  in purine
  opls_623   12.01100  ; C4  in purine
  opls_624   12.01100  ; C5  in purine
  opls_625   12.01100  ; C6  in purine
@@ -688,7 +688,7 @@
  opls_703    0.00000  ; La+3
  opls_704    0.00000  ; Nd+3 Lanthanide params -
  opls_705    0.00000  ; Eu+3 F. van Veggel, Chem Eur J 5, 90 (1999).
- opls_706    0.00000  ; Gd+3             
+ opls_706    0.00000  ; Gd+3
  opls_707    0.00000  ; Yb+3 see also JPC-A 104, 7659 (2000)
  opls_708   12.01100  ; C  in Cl..CH3..Cl- TS
  opls_709   35.45300  ; Cl charges: JACS 117,2024 (95)
@@ -751,8 +751,8 @@
  opls_767   14.00670  ; N in nitro Ar-NO2
  opls_768   12.01100  ; C(NO2) nitrobenzene
  opls_771   15.99940  ; propylene carbonate O (Luciennes param.)
- opls_772   12.01100  ; propylene carbonate C=O   
- opls_773   15.99940  ; propylene carbonate OS    
+ opls_772   12.01100  ; propylene carbonate C=O
+ opls_773   15.99940  ; propylene carbonate OS
  opls_774   12.01100  ; propylene carbonate C in CH2
  opls_775   12.01100  ; propylene carbonate C in CH
  opls_776   12.01100  ; propylene carbonate C in CH3
@@ -765,13 +765,13 @@
  opls_784    1.00800  ; H in CH3PR3+
  opls_785   30.97376  ; P in PF6-
  opls_786   18.99840  ; F in PF6-
- opls_787   14.00670  ; N in NO3- 
- opls_788   15.99940  ; O in NO3- 
- opls_795   15.99940  ; O TIP4F Water  
- opls_796    1.00800  ; H TIP4F Water  
- opls_797    0.00000  ; M TIP4F Water  
+ opls_787   14.00670  ; N in NO3-
+ opls_788   15.99940  ; O in NO3-
+ opls_795   15.99940  ; O TIP4F Water
+ opls_796    1.00800  ; H TIP4F Water
+ opls_797    0.00000  ; M TIP4F Water
  opls_900   14.00670  ; N primary   amines
- opls_901   14.00670  ; N secondary amines, aziridine N1 
+ opls_901   14.00670  ; N secondary amines, aziridine N1
  opls_902   14.00670  ; N tertiary  amines
  opls_903   12.01100  ; CH3(N) primary   aliphatic amines, H(C) is #911
  opls_904   12.01100  ; CH3(N) secondary aliphatic amines, H(C) is #911
@@ -827,8 +827,8 @@
  MW          0.0      ; Dummy mass in rigid tyrosine rings
  DUM         0.0      ; Dummy mass in TIP4P etc.
 ; tip4p-EW
-HW_tip4pew   1.008 
-OW_tip4pew   16.00 
+HW_tip4pew   1.008
+OW_tip4pew   16.00
 ; GOLD_NP
 AUb          196.96650 ; For Gold in the bulk
 AU1          196.96650 ; Gold atoms belonging to the surface {100}

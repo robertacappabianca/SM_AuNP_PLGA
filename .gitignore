@@ -41,3 +41,4 @@ simulations/2-US_free_energy/theta_54.7/EM/**/*
 # ignore code files
 
 .vscode
+venv*/

@@ -8,7 +8,7 @@
 ;
 ;	Created by:
 ;	                    :-) GROMACS - gmx pdb2gmx, 2020.4 (-:
-;	
+;
 ;	Executable:   /usr/local/gromacs/bin/gmx
 ;	Data prefix:  /usr/local/gromacs
 ;	Working dir:  /home/roberta/SM_AuNP_PLGA/simulations/1-PLGA_self-assembly/60/TOP
@@ -20,7 +20,7 @@
 ; Include forcefield parameters
 #include "./mix_oplsaa.ff/forcefield.itp"
 
-; Include chain topologies 
+; Include chain topologies
 #include "topol_Other.itp"
 #include "topol_Other_chain_A.itp"
 
@@ -38,7 +38,7 @@
 #include "./mix_oplsaa.ff/ions.itp"
 
 [ system ]
-; Name 
+; Name
 Built with Packmol in water
 
 [ molecules ]

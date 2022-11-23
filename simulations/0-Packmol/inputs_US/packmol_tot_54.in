@@ -1,19 +1,17 @@
 
 filetype pdb
-tolerance 2.0  
+tolerance 2.0
 
 structure AuNP_54.7.pdb
 number 1
 center
 fixed 35.0 35.0 35.0 0.0 0.0 0.0
-end structure 
+end structure
 
 structure 2PLGA_chain_conect.pdb
   number 1
   center
   fixed 35.0 35.0 57.0 0.0 0.0 0.0
-end structure 
+end structure
 
-output ic_54.7.pdb         
-
-        
+output ic_54.7.pdb
