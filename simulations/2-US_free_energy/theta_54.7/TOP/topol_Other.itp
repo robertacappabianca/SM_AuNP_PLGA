@@ -8,7 +8,7 @@
 ;
 ;	Created by:
 ;	                    :-) GROMACS - gmx pdb2gmx, 2020.4 (-:
-;	
+;
 ;	Executable:   /usr/local/gromacs/bin/gmx
 ;	Data prefix:  /usr/local/gromacs
 ;	Working dir:  /home/roberta/SM_AuNP_PLGA/simulations/1-PLGA_self-assembly/60/TOP
@@ -3878,4 +3878,3 @@ Other               3
 #ifdef POSRES_GOLD
 #include "posre_Other.itp"
 #endif
-

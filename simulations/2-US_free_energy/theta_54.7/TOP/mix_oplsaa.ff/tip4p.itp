@@ -19,12 +19,12 @@ SOL		2
 #else
 [ bonds ]
 ; i	j	funct	length	force.c.
-1	2	1	0.09572	502416.0 0.09572	502416.0 
-1	3	1	0.09572	502416.0 0.09572	502416.0 
-	
+1	2	1	0.09572	502416.0 0.09572	502416.0
+1	3	1	0.09572	502416.0 0.09572	502416.0
+
 [ angles ]
 ; i	j	k	funct	angle	force.c.
-2	1	3	1	104.52	628.02	104.52	628.02	
+2	1	3	1	104.52	628.02	104.52	628.02
 #endif
 
 [ exclusions ]
@@ -36,9 +36,9 @@ SOL		2
 ; The position of the virtual site is computed as follows:
 ;
 ;		O
-;  	      
+;
 ;	    	D
-;	  
+;
 ;	H		H
 ;
 ; const = distance (OD) / [ cos (angle(DOH)) 	* distance (OH) ]
@@ -49,4 +49,3 @@ SOL		2
 [ virtual_sites3 ]
 ; Vsite from			funct	a		b
 4	1	2	3	1	0.128012065	0.128012065
-

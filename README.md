@@ -1,4 +1,4 @@
-# Supporting material for the article:  
+# Supporting material for the article:
 
 <p align="center">
     <a target="_blank" href="https://python.org"><img
@@ -32,7 +32,7 @@
 
 In this repository are stored the Jupyter Notebooks used in the article [ARTICOLO](ARTICOLO) to:
 
-1. Define the geometry and topology of a bare gold nanoparticle; 
+1. Define the geometry and topology of a bare gold nanoparticle;
 
 2. To study the self-assembly and adsorption phenomena of PLGA polymers onto a AuNP surface through post-processing analysis.
 
@@ -135,17 +135,17 @@ To perform a clustering analysis by adapting the HDBSCAN* algorithm to investiga
 ### <a name="using-SASA_analysis" />  Using `3-SASA_analysis.ipynb`
 
 To analyze the four case studies by monitoring the solvent accessible surface area (SASA) per crystal plane during the simulations. In fact, a reduction in the water accessible surface area has a significance equivalent to an improved
-in the adsorption of PLGA on the specific plane of the NP. 
+in the adsorption of PLGA on the specific plane of the NP.
 
 ### <a name="using-setup_US" />  Using `4-setup_US.ipynb`
 
 To explore the Free Energy Landscape (FEL) using the improved Umbrella Sampling (US) method. Specifically, this notebook jupyter describes how to extract the Potential of Mean Force (PMF) of a single PLGA polymer chain adsorbing on the AuNP by varying their reciprocal angular positions. (see in the [article](ARTICOLO) 'Results and discussion': figure 4)
 
-> **NOTE** `4.1-rotation_NP.ipynb` needs to calculate the axis and angles of rotation to rotate the nanoparticle. 
+> **NOTE** `4.1-rotation_NP.ipynb` needs to calculate the axis and angles of rotation to rotate the nanoparticle.
 
 ---
 
-#### **Note:** In the main article, we replicated the simulations in order to determinate the mean values and statistical variance of the results. 
+#### **Note:** In the main article, we replicated the simulations in order to determinate the mean values and statistical variance of the results.
 
 
 ## 🚩 License

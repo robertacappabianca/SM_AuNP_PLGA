@@ -1,4 +1,4 @@
-title                   = NVT equilibration 
+title                   = NVT equilibration
 define                  = -DPOSRES_GOLD -DPOSRES_PLGA  ; position restrain the protein
 ; Run parameters
 integrator              = md        ; leap-frog integrator
@@ -11,11 +11,11 @@ nstenergy               = 500       ; save energies every 1.0 ps
 nstlog                  = 500       ; update log file every 1.0 ps
 ; Bond parameters
 continuation            = no        ; first dynamics run
-constraint_algorithm    = lincs     ; holonomic constraints 
+constraint_algorithm    = lincs     ; holonomic constraints
 constraints             = h-bonds   ; bonds involving H are constrained
 lincs_iter              = 1         ; accuracy of LINCS
 lincs_order             = 4         ; also related to accuracy
-; Nonbonded settings 
+; Nonbonded settings
 cutoff-scheme           = Verlet    ; Buffered neighbor searching
 ns_type                 = grid      ; search neighboring grid cells
 nstlist                 = 10        ; 20 fs, largely irrelevant with Verlet
@@ -27,7 +27,7 @@ coulombtype             = PME       ; Particle Mesh Ewald for long-range electro
 pme_order               = 4         ; cubic interpolation
 fourierspacing          = 0.16      ; grid spacing for FFT
 ; Temperature coupling is on
-tcoupl                  = V-rescale             ; modified Berendsen thermostat                    
+tcoupl                  = V-rescale             ; modified Berendsen thermostat
 tc-grps                 = Other    SOL           ; two coupling groups - more accurate
 tau_t                   = 0.1     0.1           ; time constant, in ps
 ref_t                   = 300     300           ; reference temperature, one for each group, in K

@@ -1,4 +1,4 @@
-; If you get a complaint about missing dummy types from pdb2gmx 
+; If you get a complaint about missing dummy types from pdb2gmx
 ; is is straightforward to add it here.
 ; First, determine the bonded atom type (for most forcefields except
 ; opls it is probably identical to the nonbonded atomtype) for the
@@ -16,7 +16,7 @@
 [ CH3 ]
    opls_135  opls_136   MCH3B
    opls_135  opls_137   MCH3B
-   opls_135  opls_157   MCH3B 
+   opls_135  opls_157   MCH3B
    opls_135  opls_158   MCH3B
    opls_135  opls_224B  MCH3B
    opls_135  opls_225B  MCH3B
@@ -24,7 +24,7 @@
    opls_135  opls_283   MCH3B
    opls_135  opls_293B  MCH3B
    opls_135  opls_299   MCH3B
-   opls_135  opls_912B  MCH3B 
+   opls_135  opls_912B  MCH3B
    opls_209  opls_202   MCH3A
 
 [ NH3 ]
@@ -87,9 +87,9 @@
   CE2	CZ		0.140
   CD1	HD1		0.108
   CD2	HD2		0.108
-  CE1	HE1		0.108	
-  CE2   HE2		0.108	
-  CZ    OH		0.1364	
+  CE1	HE1		0.108
+  CE2   HE2		0.108
+  CZ    OH		0.1364
   OH    HH		0.0945
   CG    CD1   CE1	120.0
   CD1   CE1   CZ	120.0
@@ -153,7 +153,7 @@
   CH2   CZ3   HZ3	120.0
   HZ3   CZ3   CE3	120.0
   CZ2   CH2   HH2	120.0
-  HH2   CH2   CZ3	120.0	
+  HH2   CH2   CZ3	120.0
 
 [ HISD ] ; angles from MD sim, corrected to be perfectly planar
   CG    ND1		0.1381
@@ -196,7 +196,7 @@
   HE1   CE1   NE2	123.3
   CE1   NE2   HE2	125.9
   HE2   NE2   CD2	126.8
-  
+
 [ HISH ] ; angles from MD sim, corrected to be perfectly planar
   CG    ND1		0.1381
   ND1   CE1		0.1343
@@ -220,6 +220,3 @@
   HE2   NE2   CD2	126.4
   NE2   CD2   HD2	120.8
   HD2   CD2   CG	131.8
-
-
-  
